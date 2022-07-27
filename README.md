@@ -14,8 +14,7 @@
 - 🌱 I am currently exploring Android Development and contributing to open source.
 
 ## Tech I'm familiar with 💻
-
-<p align="left"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40"/> &nbsp;&nbsp;  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="31" height="35"/> &nbsp;&nbsp; <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="38" height="40"/> &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </p>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a align="left"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40"/> &nbsp;&nbsp;  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="31" height="35"/> &nbsp;&nbsp; <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="38" height="40"/> &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
 ## Let's Connect
 
