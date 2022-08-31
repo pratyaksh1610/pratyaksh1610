@@ -34,6 +34,11 @@
 
  ## ⚡ Recent Activity
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#12244](https://github.com/ankidroid/Anki-Android/issues/12244) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 💪 Opened PR [#12247](https://github.com/ankidroid/Anki-Android/pull/12247) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. 🗣 Commented on [#12244](https://github.com/ankidroid/Anki-Android/issues/12244) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 🗣 Commented on [#12244](https://github.com/ankidroid/Anki-Android/issues/12244) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#22816](https://github.com/zulip/zulip/issues/22816) in [zulip/zulip](https://github.com/zulip/zulip)
    <!--END_SECTION:activity-->
  
 <p align="center">
