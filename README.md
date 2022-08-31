@@ -32,6 +32,10 @@
 <br />
 <p>&nbsp;</p>
 
+ ## ⚡ Recent Activity
+  <!--START_SECTION:activity-->
+   <!--END_SECTION:activity-->
+ 
 <p align="center">
 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pratyaksh1610&theme=react&show_icons=true&hide=stars&count_private=true" />
