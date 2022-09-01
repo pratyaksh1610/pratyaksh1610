@@ -58,10 +58,10 @@
 
  ## ⚡ Recent Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12275](https://github.com/ankidroid/Anki-Android/issues/12275) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 💪 Opened PR [#12275](https://github.com/ankidroid/Anki-Android/pull/12275) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. 🗣 Commented on [#12273](https://github.com/ankidroid/Anki-Android/issues/12273) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 🗣 Commented on [#12261](https://github.com/ankidroid/Anki-Android/issues/12261) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 🗣 Commented on [#12261](https://github.com/ankidroid/Anki-Android/issues/12261) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🎉 Merged PR [#4](https://github.com/pratyaksh1610/Notes_App/pull/4) in [pratyaksh1610/Notes_App](https://github.com/pratyaksh1610/Notes_App)
+2. 💪 Opened PR [#4](https://github.com/pratyaksh1610/Notes_App/pull/4) in [pratyaksh1610/Notes_App](https://github.com/pratyaksh1610/Notes_App)
+3. 🗣 Commented on [#12275](https://github.com/ankidroid/Anki-Android/issues/12275) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 💪 Opened PR [#12275](https://github.com/ankidroid/Anki-Android/pull/12275) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#12273](https://github.com/ankidroid/Anki-Android/issues/12273) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
    <!--END_SECTION:activity-->
  
