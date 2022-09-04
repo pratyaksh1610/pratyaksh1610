@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3329](https://github.com/organicmaps/organicmaps/issues/3329) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-2. 🗣 Commented on [#4086](https://github.com/oppia/oppia-android/issues/4086) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-3. 💪 Opened PR [#12296](https://github.com/ankidroid/Anki-Android/pull/12296) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 🗣 Commented on [#22850](https://github.com/zulip/zulip/issues/22850) in [zulip/zulip](https://github.com/zulip/zulip)
-5. 💪 Opened PR [#3325](https://github.com/organicmaps/organicmaps/pull/3325) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+1. ❗️ Opened issue [#4832](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4832) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+2. 🗣 Commented on [#3329](https://github.com/organicmaps/organicmaps/issues/3329) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+3. 🗣 Commented on [#4086](https://github.com/oppia/oppia-android/issues/4086) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+4. 💪 Opened PR [#12296](https://github.com/ankidroid/Anki-Android/pull/12296) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#22850](https://github.com/zulip/zulip/issues/22850) in [zulip/zulip](https://github.com/zulip/zulip)
 <!--END_SECTION:activity-->
 
  
