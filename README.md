@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3319](https://github.com/organicmaps/organicmaps/issues/3319) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+1. 🗣 Commented on [#3347](https://github.com/organicmaps/organicmaps/issues/3347) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 2. 🗣 Commented on [#3319](https://github.com/organicmaps/organicmaps/issues/3319) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-3. 🗣 Commented on [#4832](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4832) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-4. ❗️ Opened issue [#4832](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4832) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-5. 🗣 Commented on [#3329](https://github.com/organicmaps/organicmaps/issues/3329) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+3. 🗣 Commented on [#3319](https://github.com/organicmaps/organicmaps/issues/3319) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+4. 🗣 Commented on [#4832](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4832) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+5. ❗️ Opened issue [#4832](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4832) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
 <!--END_SECTION:activity-->
 
  
