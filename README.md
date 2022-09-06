@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2945](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2945) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-2. ❗️ Opened issue [#293](https://github.com/openfoodfacts/openfoodfacts-web/issues/293) in [openfoodfacts/openfoodfacts-web](https://github.com/openfoodfacts/openfoodfacts-web)
-3. 🗣 Commented on [#2945](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2945) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-4. 🗣 Commented on [#12329](https://github.com/ankidroid/Anki-Android/issues/12329) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 🗣 Commented on [#12326](https://github.com/ankidroid/Anki-Android/issues/12326) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🗣 Commented on [#7231](https://github.com/openfoodfacts/openfoodfacts-server/issues/7231) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
+2. 🗣 Commented on [#2945](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2945) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+3. ❗️ Opened issue [#293](https://github.com/openfoodfacts/openfoodfacts-web/issues/293) in [openfoodfacts/openfoodfacts-web](https://github.com/openfoodfacts/openfoodfacts-web)
+4. 🗣 Commented on [#2945](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2945) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+5. 🗣 Commented on [#12329](https://github.com/ankidroid/Anki-Android/issues/12329) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
