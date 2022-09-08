@@ -60,8 +60,8 @@
 1. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 2. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 3. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 💪 Opened PR [#12340](https://github.com/ankidroid/Anki-Android/pull/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. ❗️ Opened issue [#3371](https://github.com/organicmaps/organicmaps/issues/3371) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+4. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 💪 Opened PR [#12340](https://github.com/ankidroid/Anki-Android/pull/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
