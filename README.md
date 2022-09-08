@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12340](https://github.com/ankidroid/Anki-Android/pull/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. ❗️ Opened issue [#3371](https://github.com/organicmaps/organicmaps/issues/3371) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-3. 🗣 Commented on [#3280](https://github.com/organicmaps/organicmaps/issues/3280) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-4. 🗣 Commented on [#7231](https://github.com/openfoodfacts/openfoodfacts-server/issues/7231) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
-5. 🗣 Commented on [#2945](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2945) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+1. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. 💪 Opened PR [#12340](https://github.com/ankidroid/Anki-Android/pull/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. ❗️ Opened issue [#3371](https://github.com/organicmaps/organicmaps/issues/3371) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+5. 🗣 Commented on [#3280](https://github.com/organicmaps/organicmaps/issues/3280) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 <!--END_SECTION:activity-->
 
  
