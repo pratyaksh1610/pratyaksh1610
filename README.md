@@ -61,7 +61,7 @@
 2. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 3. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 4. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 💪 Opened PR [#12340](https://github.com/ankidroid/Anki-Android/pull/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
