@@ -57,9 +57,9 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4581](https://github.com/oppia/oppia-android/issues/4581) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-2. 🗣 Commented on [#7230](https://github.com/openfoodfacts/openfoodfacts-server/issues/7230) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
-3. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🗣 Commented on [#1357](https://github.com/organicmaps/organicmaps/issues/1357) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+2. 🗣 Commented on [#4581](https://github.com/oppia/oppia-android/issues/4581) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+3. 🗣 Commented on [#7230](https://github.com/openfoodfacts/openfoodfacts-server/issues/7230) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
 4. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 5. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
