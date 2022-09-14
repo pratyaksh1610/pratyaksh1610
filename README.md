@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3319](https://github.com/organicmaps/organicmaps/issues/3319) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-2. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-4. 🎉 Merged PR [#5](https://github.com/pratyaksh1610/Notes_App/pull/5) in [pratyaksh1610/Notes_App](https://github.com/pratyaksh1610/Notes_App)
-5. 💪 Opened PR [#5](https://github.com/pratyaksh1610/Notes_App/pull/5) in [pratyaksh1610/Notes_App](https://github.com/pratyaksh1610/Notes_App)
+1. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+2. 🗣 Commented on [#3319](https://github.com/organicmaps/organicmaps/issues/3319) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+3. 🗣 Commented on [#12340](https://github.com/ankidroid/Anki-Android/issues/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+5. 🎉 Merged PR [#5](https://github.com/pratyaksh1610/Notes_App/pull/5) in [pratyaksh1610/Notes_App](https://github.com/pratyaksh1610/Notes_App)
 <!--END_SECTION:activity-->
 
  
