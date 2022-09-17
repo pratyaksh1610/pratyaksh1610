@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3410](https://github.com/organicmaps/organicmaps/issues/3410) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-2. 🗣 Commented on [#3410](https://github.com/organicmaps/organicmaps/issues/3410) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-3. 💪 Opened PR [#3410](https://github.com/organicmaps/organicmaps/pull/3410) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-4. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-5. 🗣 Commented on [#3319](https://github.com/organicmaps/organicmaps/issues/3319) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+1. 💪 Opened PR [#7360](https://github.com/openfoodfacts/openfoodfacts-server/pull/7360) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
+2. 🗣 Commented on [#7231](https://github.com/openfoodfacts/openfoodfacts-server/issues/7231) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
+3. 🗣 Commented on [#3410](https://github.com/organicmaps/organicmaps/issues/3410) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+4. 🗣 Commented on [#3410](https://github.com/organicmaps/organicmaps/issues/3410) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+5. 💪 Opened PR [#3410](https://github.com/organicmaps/organicmaps/pull/3410) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 <!--END_SECTION:activity-->
 
  
