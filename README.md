@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12503](https://github.com/ankidroid/Anki-Android/issues/12503) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🗣 Commented on [#4848](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4848) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
 2. 🗣 Commented on [#12503](https://github.com/ankidroid/Anki-Android/issues/12503) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. 💪 Opened PR [#12503](https://github.com/ankidroid/Anki-Android/pull/12503) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. ❌ Closed PR [#12340](https://github.com/ankidroid/Anki-Android/pull/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 🗣 Commented on [#3410](https://github.com/organicmaps/organicmaps/issues/3410) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+3. 🗣 Commented on [#12503](https://github.com/ankidroid/Anki-Android/issues/12503) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 💪 Opened PR [#12503](https://github.com/ankidroid/Anki-Android/pull/12503) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. ❌ Closed PR [#12340](https://github.com/ankidroid/Anki-Android/pull/12340) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
