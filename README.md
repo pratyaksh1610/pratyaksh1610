@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/pratyaksh1610/Quiz_App/issues/12) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-2. 🗣 Commented on [#13](https://github.com/pratyaksh1610/Quiz_App/issues/13) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-3. 🗣 Commented on [#8](https://github.com/pratyaksh1610/Quiz_App/issues/8) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-4. 🎉 Merged PR [#13](https://github.com/pratyaksh1610/Quiz_App/pull/13) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-5. 🗣 Commented on [#13](https://github.com/pratyaksh1610/Quiz_App/issues/13) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+1. ❗️ Closed issue [#3](https://github.com/pratyaksh1610/Quiz_App/issues/3) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+2. 🗣 Commented on [#11](https://github.com/pratyaksh1610/Quiz_App/issues/11) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+3. 🎉 Merged PR [#11](https://github.com/pratyaksh1610/Quiz_App/pull/11) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. 🗣 Commented on [#15](https://github.com/pratyaksh1610/Quiz_App/issues/15) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+5. 🗣 Commented on [#12](https://github.com/pratyaksh1610/Quiz_App/issues/12) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 <!--END_SECTION:activity-->
 
  
