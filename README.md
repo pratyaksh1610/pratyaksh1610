@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/pratyaksh1610/Quiz_App/issues/7) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-2. ❗️ Opened issue [#6](https://github.com/pratyaksh1610/Quiz_App/issues/6) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-3. ❗️ Opened issue [#5](https://github.com/pratyaksh1610/Quiz_App/issues/5) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-4. ❗️ Opened issue [#4](https://github.com/pratyaksh1610/Quiz_App/issues/4) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-5. ❗️ Opened issue [#3](https://github.com/pratyaksh1610/Quiz_App/issues/3) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+1. 🗣 Commented on [#12552](https://github.com/ankidroid/Anki-Android/issues/12552) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 🗣 Commented on [#2](https://github.com/pratyaksh1610/Quiz_App/issues/2) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+3. ❗️ Opened issue [#7](https://github.com/pratyaksh1610/Quiz_App/issues/7) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. ❗️ Opened issue [#6](https://github.com/pratyaksh1610/Quiz_App/issues/6) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+5. ❗️ Opened issue [#5](https://github.com/pratyaksh1610/Quiz_App/issues/5) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 <!--END_SECTION:activity-->
 
  
