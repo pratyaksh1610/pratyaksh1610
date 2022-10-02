@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/pratyaksh1610/Quiz_App/issues/11) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-2. 🗣 Commented on [#3](https://github.com/pratyaksh1610/Quiz_App/issues/3) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-3. 🗣 Commented on [#5](https://github.com/pratyaksh1610/Quiz_App/issues/5) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+1. 🗣 Commented on [#12](https://github.com/pratyaksh1610/Quiz_App/issues/12) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+2. 🗣 Commented on [#11](https://github.com/pratyaksh1610/Quiz_App/issues/11) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+3. 🗣 Commented on [#3](https://github.com/pratyaksh1610/Quiz_App/issues/3) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 4. 🗣 Commented on [#5](https://github.com/pratyaksh1610/Quiz_App/issues/5) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-5. 🗣 Commented on [#12552](https://github.com/ankidroid/Anki-Android/issues/12552) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#5](https://github.com/pratyaksh1610/Quiz_App/issues/5) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 <!--END_SECTION:activity-->
 
  
