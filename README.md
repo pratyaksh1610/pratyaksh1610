@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12542](https://github.com/ankidroid/Anki-Android/issues/12542) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-3. 🗣 Commented on [#4852](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4852) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-4. 🗣 Commented on [#4635](https://github.com/oppia/oppia-android/issues/4635) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-5. 💪 Opened PR [#4635](https://github.com/oppia/oppia-android/pull/4635) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+1. ❗️ Opened issue [#4](https://github.com/pratyaksh1610/Quiz_App/issues/4) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+2. ❗️ Opened issue [#3](https://github.com/pratyaksh1610/Quiz_App/issues/3) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+3. ❗️ Opened issue [#2](https://github.com/pratyaksh1610/Quiz_App/issues/2) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. 🗣 Commented on [#12542](https://github.com/ankidroid/Anki-Android/issues/12542) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
 <!--END_SECTION:activity-->
 
  
