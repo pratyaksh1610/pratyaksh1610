@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/pratyaksh1610/Quiz_App/issues/9) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+1. 🗣 Commented on [#18](https://github.com/pratyaksh1610/Quiz_App/issues/18) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 2. 🗣 Commented on [#9](https://github.com/pratyaksh1610/Quiz_App/issues/9) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-3. ❗️ Opened issue [#18](https://github.com/pratyaksh1610/Quiz_App/issues/18) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-4. 🗣 Commented on [#17](https://github.com/pratyaksh1610/Quiz_App/issues/17) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-5. 🗣 Commented on [#16](https://github.com/pratyaksh1610/Quiz_App/issues/16) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+3. 🗣 Commented on [#9](https://github.com/pratyaksh1610/Quiz_App/issues/9) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. ❗️ Opened issue [#18](https://github.com/pratyaksh1610/Quiz_App/issues/18) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+5. 🗣 Commented on [#17](https://github.com/pratyaksh1610/Quiz_App/issues/17) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 <!--END_SECTION:activity-->
 
  
