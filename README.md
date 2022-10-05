@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 🗣 Commented on [#4635](https://github.com/oppia/oppia-android/issues/4635) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+1. 🗣 Commented on [#12542](https://github.com/ankidroid/Anki-Android/issues/12542) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 3. 🗣 Commented on [#4635](https://github.com/oppia/oppia-android/issues/4635) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-4. 🗣 Commented on [#12552](https://github.com/ankidroid/Anki-Android/issues/12552) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. ❗️ Closed issue [#2](https://github.com/pratyaksh1610/Quiz_App/issues/2) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. 🗣 Commented on [#4635](https://github.com/oppia/oppia-android/issues/4635) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+5. 🗣 Commented on [#12552](https://github.com/ankidroid/Anki-Android/issues/12552) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
