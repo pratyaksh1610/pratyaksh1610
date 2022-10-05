@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-3. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-4. ❗️ Closed issue [#6](https://github.com/pratyaksh1610/Quiz_App/issues/6) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-5. 🎉 Merged PR [#17](https://github.com/pratyaksh1610/Quiz_App/pull/17) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+1. ❗️ Closed issue [#2](https://github.com/pratyaksh1610/Quiz_App/issues/2) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+2. ❗️ Closed issue [#18](https://github.com/pratyaksh1610/Quiz_App/issues/18) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+3. 🎉 Merged PR [#21](https://github.com/pratyaksh1610/Quiz_App/pull/21) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#4487](https://github.com/oppia/oppia-android/issues/4487) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
 <!--END_SECTION:activity-->
 
  
