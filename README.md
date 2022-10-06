@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4524](https://github.com/oppia/oppia-android/issues/4524) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-2. 🗣 Commented on [#12542](https://github.com/ankidroid/Anki-Android/issues/12542) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. 🗣 Commented on [#12542](https://github.com/ankidroid/Anki-Android/issues/12542) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 🗣 Commented on [#4635](https://github.com/oppia/oppia-android/issues/4635) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+1. 💪 Opened PR [#4862](https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4862) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+2. ❗️ Opened issue [#4861](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4861) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+3. 🗣 Commented on [#4524](https://github.com/oppia/oppia-android/issues/4524) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+4. 🗣 Commented on [#12542](https://github.com/ankidroid/Anki-Android/issues/12542) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#12542](https://github.com/ankidroid/Anki-Android/issues/12542) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
