@@ -5,8 +5,7 @@
 <br>
 <a href="https://www.linkedin.com/in/pratyaksh-khurana-775894210/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="mailto:pratyakshkhuranaofficial@gmail.com"><img  width="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
-&ensp;<a href="https://dev.to/pratyaksh1610"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/</a>
-&ensp;<a href="https://twitter.com/pratyaksh1612"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+&ensp;<a href="https://dev.to/pratyaksh1610"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/</a> 
 &ensp;<a href="https://github.com/pratyaksh1610"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
 <br>
 
