@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/pratyaksh1610/Quiz_App/issues/9) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-2. 🎉 Merged PR [#19](https://github.com/pratyaksh1610/Quiz_App/pull/19) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-3. ❗️ Closed issue [#20](https://github.com/pratyaksh1610/Quiz_App/issues/20) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-4. 🎉 Merged PR [#25](https://github.com/pratyaksh1610/Quiz_App/pull/25) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-5. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. ❗️ Closed issue [#9](https://github.com/pratyaksh1610/Quiz_App/issues/9) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+3. 🎉 Merged PR [#19](https://github.com/pratyaksh1610/Quiz_App/pull/19) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. ❗️ Closed issue [#20](https://github.com/pratyaksh1610/Quiz_App/issues/20) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+5. 🎉 Merged PR [#25](https://github.com/pratyaksh1610/Quiz_App/pull/25) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 <!--END_SECTION:activity-->
 
  
