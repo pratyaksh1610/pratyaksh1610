@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3645](https://github.com/organicmaps/organicmaps/pull/3645) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-2. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 💪 Opened PR [#3645](https://github.com/organicmaps/organicmaps/pull/3645) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 3. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. ❗️ Closed issue [#9](https://github.com/pratyaksh1610/Quiz_App/issues/9) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-5. 🎉 Merged PR [#19](https://github.com/pratyaksh1610/Quiz_App/pull/19) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+4. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. ❗️ Closed issue [#9](https://github.com/pratyaksh1610/Quiz_App/issues/9) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
 <!--END_SECTION:activity-->
 
  
