@@ -57,10 +57,10 @@
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3645](https://github.com/organicmaps/organicmaps/issues/3645) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-2. 🗣 Commented on [#3622](https://github.com/organicmaps/organicmaps/issues/3622) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-3. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 💪 Opened PR [#3645](https://github.com/organicmaps/organicmaps/pull/3645) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-5. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 🗣 Commented on [#3645](https://github.com/organicmaps/organicmaps/issues/3645) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+3. 🗣 Commented on [#3622](https://github.com/organicmaps/organicmaps/issues/3622) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+4. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 💪 Opened PR [#3645](https://github.com/organicmaps/organicmaps/pull/3645) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 <!--END_SECTION:activity-->
 
  
