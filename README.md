@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12745](https://github.com/ankidroid/Anki-Android/pull/12745) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. ❌ Closed PR [#12744](https://github.com/ankidroid/Anki-Android/pull/12744) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. 💪 Opened PR [#12744](https://github.com/ankidroid/Anki-Android/pull/12744) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 💪 Opened PR [#7625](https://github.com/openfoodfacts/openfoodfacts-server/pull/7625) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
-5. 💪 Opened PR [#7623](https://github.com/openfoodfacts/openfoodfacts-server/pull/7623) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
+1. 💪 Opened PR [#12748](https://github.com/ankidroid/Anki-Android/pull/12748) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 💪 Opened PR [#12745](https://github.com/ankidroid/Anki-Android/pull/12745) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. ❌ Closed PR [#12744](https://github.com/ankidroid/Anki-Android/pull/12744) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 💪 Opened PR [#12744](https://github.com/ankidroid/Anki-Android/pull/12744) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 💪 Opened PR [#7625](https://github.com/openfoodfacts/openfoodfacts-server/pull/7625) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
 <!--END_SECTION:activity-->
 
  
