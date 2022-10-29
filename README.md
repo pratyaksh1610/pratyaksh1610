@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7625](https://github.com/openfoodfacts/openfoodfacts-server/pull/7625) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
-2. 💪 Opened PR [#7623](https://github.com/openfoodfacts/openfoodfacts-server/pull/7623) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
-3. 🎉 Merged PR [#10](https://github.com/pratyaksh1610/Quiz_App/pull/10) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
-4. 💪 Opened PR [#7599](https://github.com/openfoodfacts/openfoodfacts-server/pull/7599) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
-5. 💪 Opened PR [#4670](https://github.com/oppia/oppia-android/pull/4670) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+1. 💪 Opened PR [#12744](https://github.com/ankidroid/Anki-Android/pull/12744) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 💪 Opened PR [#7625](https://github.com/openfoodfacts/openfoodfacts-server/pull/7625) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
+3. 💪 Opened PR [#7623](https://github.com/openfoodfacts/openfoodfacts-server/pull/7623) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
+4. 🎉 Merged PR [#10](https://github.com/pratyaksh1610/Quiz_App/pull/10) in [pratyaksh1610/Quiz_App](https://github.com/pratyaksh1610/Quiz_App)
+5. 💪 Opened PR [#7599](https://github.com/openfoodfacts/openfoodfacts-server/pull/7599) in [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server)
 <!--END_SECTION:activity-->
 
  
