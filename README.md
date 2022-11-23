@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12873](https://github.com/ankidroid/Anki-Android/issues/12873) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 💪 Opened PR [#12867](https://github.com/ankidroid/Anki-Android/pull/12867) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. 💪 Opened PR [#12863](https://github.com/ankidroid/Anki-Android/pull/12863) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 💪 Opened PR [#12838](https://github.com/ankidroid/Anki-Android/pull/12838) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 🗣 Commented on [#12828](https://github.com/ankidroid/Anki-Android/issues/12828) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 💪 Opened PR [#12878](https://github.com/ankidroid/Anki-Android/pull/12878) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 🗣 Commented on [#12873](https://github.com/ankidroid/Anki-Android/issues/12873) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. 💪 Opened PR [#12867](https://github.com/ankidroid/Anki-Android/pull/12867) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 💪 Opened PR [#12863](https://github.com/ankidroid/Anki-Android/pull/12863) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 💪 Opened PR [#12838](https://github.com/ankidroid/Anki-Android/pull/12838) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
