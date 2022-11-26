@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1163](https://github.com/Catrobat/Paintroid/pull/1163) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-2. 🗣 Commented on [#1129](https://github.com/Catrobat/Paintroid/issues/1129) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-3. 💪 Opened PR [#12878](https://github.com/ankidroid/Anki-Android/pull/12878) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 🗣 Commented on [#12873](https://github.com/ankidroid/Anki-Android/issues/12873) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 💪 Opened PR [#12867](https://github.com/ankidroid/Anki-Android/pull/12867) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 💪 Opened PR [#4767](https://github.com/oppia/oppia-android/pull/4767) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+2. 💪 Opened PR [#1163](https://github.com/Catrobat/Paintroid/pull/1163) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+3. 🗣 Commented on [#1129](https://github.com/Catrobat/Paintroid/issues/1129) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+4. 💪 Opened PR [#12878](https://github.com/ankidroid/Anki-Android/pull/12878) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. 🗣 Commented on [#12873](https://github.com/ankidroid/Anki-Android/issues/12873) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
