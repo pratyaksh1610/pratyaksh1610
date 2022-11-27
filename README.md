@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4768](https://github.com/oppia/oppia-android/issues/4768) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-2. 🗣 Commented on [#4768](https://github.com/oppia/oppia-android/issues/4768) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-3. 💪 Opened PR [#4767](https://github.com/oppia/oppia-android/pull/4767) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-4. 💪 Opened PR [#1163](https://github.com/Catrobat/Paintroid/pull/1163) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
-5. 🗣 Commented on [#1129](https://github.com/Catrobat/Paintroid/issues/1129) in [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid)
+1. 💪 Opened PR [#12889](https://github.com/ankidroid/Anki-Android/pull/12889) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 🗣 Commented on [#12888](https://github.com/ankidroid/Anki-Android/issues/12888) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. 🗣 Commented on [#12888](https://github.com/ankidroid/Anki-Android/issues/12888) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 🗣 Commented on [#4768](https://github.com/oppia/oppia-android/issues/4768) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+5. 🗣 Commented on [#4768](https://github.com/oppia/oppia-android/issues/4768) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
 <!--END_SECTION:activity-->
 
  
