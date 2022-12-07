@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 🗣 Commented on [#8694](https://github.com/tachiyomiorg/tachiyomi/issues/8694) in [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-3. 🗣 Commented on [#8694](https://github.com/tachiyomiorg/tachiyomi/issues/8694) in [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-4. 💪 Opened PR [#8694](https://github.com/tachiyomiorg/tachiyomi/pull/8694) in [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-5. 💪 Opened PR [#12931](https://github.com/ankidroid/Anki-Android/pull/12931) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🗣 Commented on [#12813](https://github.com/ankidroid/Anki-Android/issues/12813) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. ❌ Closed PR [#12813](https://github.com/ankidroid/Anki-Android/pull/12813) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. 🗣 Commented on [#8694](https://github.com/tachiyomiorg/tachiyomi/issues/8694) in [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+5. 🗣 Commented on [#8694](https://github.com/tachiyomiorg/tachiyomi/issues/8694) in [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 <!--END_SECTION:activity-->
 
  
