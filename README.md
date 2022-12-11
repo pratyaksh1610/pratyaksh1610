@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4771](https://github.com/oppia/oppia-android/issues/4771) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-2. 💪 Opened PR [#9521](https://github.com/TeamNewPipe/NewPipe/pull/9521) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-3. 💪 Opened PR [#4782](https://github.com/oppia/oppia-android/pull/4782) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-4. ❌ Closed PR [#4767](https://github.com/oppia/oppia-android/pull/4767) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
-5. 🗣 Commented on [#4767](https://github.com/oppia/oppia-android/issues/4767) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+1. 🗣 Commented on [#12957](https://github.com/ankidroid/Anki-Android/issues/12957) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+2. 🗣 Commented on [#4771](https://github.com/oppia/oppia-android/issues/4771) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+3. 💪 Opened PR [#9521](https://github.com/TeamNewPipe/NewPipe/pull/9521) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+4. 💪 Opened PR [#4782](https://github.com/oppia/oppia-android/pull/4782) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+5. ❌ Closed PR [#4767](https://github.com/oppia/oppia-android/pull/4767) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
 <!--END_SECTION:activity-->
 
  
