@@ -56,10 +56,10 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13052](https://github.com/ankidroid/Anki-Android/pull/13052) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 🗣 Commented on [#13032](https://github.com/ankidroid/Anki-Android/issues/13032) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. ❗️ Opened issue [#13042](https://github.com/ankidroid/Anki-Android/issues/13042) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 🗣 Commented on [#9587](https://github.com/TeamNewPipe/NewPipe/issues/9587) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+1. 🗣 Commented on [#9577](https://github.com/TeamNewPipe/NewPipe/issues/9577) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+2. 💪 Opened PR [#13052](https://github.com/ankidroid/Anki-Android/pull/13052) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. 🗣 Commented on [#13032](https://github.com/ankidroid/Anki-Android/issues/13032) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+4. ❗️ Opened issue [#13042](https://github.com/ankidroid/Anki-Android/issues/13042) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 5. 🗣 Commented on [#9587](https://github.com/TeamNewPipe/NewPipe/issues/9587) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 <!--END_SECTION:activity-->
 
