@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4902](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4902) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-2. 💪 Opened PR [#13088](https://github.com/ankidroid/Anki-Android/pull/13088) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-3. ❗️ Opened issue [#13087](https://github.com/ankidroid/Anki-Android/issues/13087) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-4. 🗣 Commented on [#13085](https://github.com/ankidroid/Anki-Android/issues/13085) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-5. 🗣 Commented on [#13082](https://github.com/ankidroid/Anki-Android/issues/13082) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. ❌ Reopened PR [#4771](https://github.com/oppia/oppia-android/pull/4771) in [oppia/oppia-android](https://github.com/oppia/oppia-android)
+2. 💪 Opened PR [#13096](https://github.com/ankidroid/Anki-Android/pull/13096) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. ❗️ Opened issue [#4902](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4902) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+4. 💪 Opened PR [#13088](https://github.com/ankidroid/Anki-Android/pull/13088) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+5. ❗️ Opened issue [#13087](https://github.com/ankidroid/Anki-Android/issues/13087) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 <!--END_SECTION:activity-->
 
  
