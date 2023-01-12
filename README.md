@@ -49,7 +49,7 @@
   <br/>
  
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pratyaksh1610&theme=react&show_icons=true&hide=stars&count_private=true" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratyaksh1610&theme=react&show_icons=true&hide=stars&count_private=true" />
   <img height="150" src ="http://github-readme-streak-stats.herokuapp.com?user=pratyaksh1610&theme=react" />
 </p>
 </details>
