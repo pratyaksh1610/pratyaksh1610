@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-2. 💪 Opened PR [#9777](https://github.com/TeamNewPipe/NewPipe/pull/9777) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-3. 💪 Opened PR [#9769](https://github.com/TeamNewPipe/NewPipe/pull/9769) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-4. 🗣 Commented on [#9587](https://github.com/TeamNewPipe/NewPipe/issues/9587) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-5. 🗣 Commented on [#13189](https://github.com/ankidroid/Anki-Android/issues/13189) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+1. 🗣 Commented on [#4913](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4913) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+2. 🗣 Commented on [#12506](https://github.com/ankidroid/Anki-Android/issues/12506) in [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+3. 💪 Opened PR [#9777](https://github.com/TeamNewPipe/NewPipe/pull/9777) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+4. 💪 Opened PR [#9769](https://github.com/TeamNewPipe/NewPipe/pull/9769) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+5. 🗣 Commented on [#9587](https://github.com/TeamNewPipe/NewPipe/issues/9587) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 <!--END_SECTION:activity-->
 
  
