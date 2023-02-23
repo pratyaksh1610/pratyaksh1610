@@ -57,11 +57,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9769](https://github.com/TeamNewPipe/NewPipe/issues/9769) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-2. 💪 Opened PR [#4922](https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4922) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-3. 🗣 Commented on [#9777](https://github.com/TeamNewPipe/NewPipe/issues/9777) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-4. 🗣 Commented on [#4888](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4888) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
-5. 💪 Opened PR [#4918](https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4918) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+1. ❗️ Opened issue [#4924](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4924) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+2. 🗣 Commented on [#9769](https://github.com/TeamNewPipe/NewPipe/issues/9769) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+3. 💪 Opened PR [#4922](https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4922) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+4. 🗣 Commented on [#9777](https://github.com/TeamNewPipe/NewPipe/issues/9777) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+5. 🗣 Commented on [#4888](https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4888) in [openfoodfacts/openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
 <!--END_SECTION:activity-->
 
  
