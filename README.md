@@ -19,7 +19,7 @@
 
 - ❤ I have a keen interest towards Competitive Programming and learning new technologies.
 
-- 🌱 I am currently exploring Android Development and contributing to open source :heart:
+<!-- - 🌱 I am currently exploring Android Development and contributing to open source :heart: -->
 
 
 ## 🛠️ Tools & Technologies
