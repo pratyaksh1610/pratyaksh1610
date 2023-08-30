@@ -12,7 +12,7 @@
 
 <!-- Talking about you -->
 ## A bit about me 🙋‍♂️
-- 📚 I'm a third year undergrad student pursuing B.Tech Computer Science and Engineering. 
+- 📚 I'm a final year student pursuing B.Tech Computer Science and Engineering. 
 
 - 🤝 I'm always ready to have new experiences , meet new people and learn new things , creating a valuable 
  product for the community.
