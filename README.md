@@ -17,40 +17,30 @@
 - 🤝 I'm always ready to have new experiences , meet new people and learn new things , creating a valuable 
  product for the community.
 
-- ❤ I have a keen interest towards Android developent and learning new technologies.
-
-<!-- - 🌱 I am currently exploring Android Development and contributing to open source :heart: -->
-
-
-## 🛠️ Tools & Technologies
-<details>
-  <summary>More Info</summary>
-
-  ### Things I code with: 
-  
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a align="left"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40"/> &nbsp;&nbsp;  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40px"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40px">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40px">&nbsp;
-
-  ### Tools I use:
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40px"></span>&nbsp;
- <img src="https://user-images.githubusercontent.com/76740999/187625840-0202b565-7220-4a7e-a799-226af012c713.png" width="40" />
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"></span>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/>
-
-  ### Things I am learning:
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30px"></span>&nbsp;
-  <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" height="40"/>
-
-</details>
-
-## 🏆 My GitHub Stats
+- ❤ I love to explore new technologies and leverage them to solve real-life problems.
+ 
+- 🌱 I am currently exploring Android Development and contributing to open source :heart: 
 
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratyaksh1610&theme=react&show_icons=true&hide=stars&count_private=true" />
+## 🛠️ Languages and Tools
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="30" src="https://github.com/pratyaksh1610/pratyaksh1610/assets/76740999/0191376b-89f8-4070-a39f-54add7882092" alt="kotlin"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css"></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></code>
+ <code><img src="https://user-images.githubusercontent.com/76740999/187625840-0202b565-7220-4a7e-a799-226af012c713.png" width="30" /></code>
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"></code>
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="mysql" width="30"/></code>
+
+
+## 🏆 GitHub Stats
+
+
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratyaksh1610&theme=react&show_icons=true&count_private=true" />&nbsp;&nbsp;<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyaksh1610&layout=compact&theme=react"/>
+ 
+
+## ☄️ Github Streaks
   <img height="150" src ="http://github-readme-streak-stats.herokuapp.com?user=pratyaksh1610&theme=react" />
-</p>
-
 
  
