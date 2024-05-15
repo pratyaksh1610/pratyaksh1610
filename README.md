@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-## Hi  	&#128075;, I'm Pratyaksh Khurana, a Developer 🚀 from India.
+## Hi  	&#128075;, I'm Pratyaksh Khurana.
 
 <br>
 <a href="https://www.linkedin.com/in/pratyaksh-khurana-775894210/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
