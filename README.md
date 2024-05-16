@@ -35,7 +35,7 @@
 ## 🏆 GitHub Stats
 
 
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratyaksh1610&theme=react&show_icons=true&count_private=true" />&nbsp;&nbsp;<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyaksh1610&layout=compact&theme=react"/>
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pratyaksh1610&theme=react&show_icons=true&count_private=true" />
  
 
 ## ☄️ Github Streaks
