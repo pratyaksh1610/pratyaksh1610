@@ -22,7 +22,6 @@
 ## 🛠️ Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="30" src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python"></code>
 <code><img height="30" src="https://github.com/pratyaksh1610/pratyaksh1610/assets/76740999/0191376b-89f8-4070-a39f-54add7882092" alt="kotlin"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css"></code>
